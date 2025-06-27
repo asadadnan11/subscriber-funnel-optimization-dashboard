@@ -155,6 +155,6 @@ This project is available for educational and non-commercial use. Please provide
 
 ---
 
-**Author**: Data Science Team  
+**Author**: Asad Adnan  
 **Date**: December 2024  
 **Version**: 1.0 
