@@ -155,6 +155,8 @@ This project is available for educational and non-commercial use. Please provide
 
 ---
 
-**Author**: Data Science Team  
+**Author**: MSBA Graduate Project  
 **Date**: December 2024  
-**Version**: 1.0 
+**Version**: 1.0
+
+*This project demonstrates advanced business analytics skills combining machine learning, statistical modeling, and strategic business thinking - core competencies for data-driven decision making roles.* 
