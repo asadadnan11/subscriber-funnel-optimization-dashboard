@@ -1,8 +1,8 @@
-# 📊 Subscriber Funnel Optimization Dashboard
+# Subscriber Funnel Optimization Dashboard
 
 A comprehensive data science project analyzing subscriber behavior and churn patterns for a news platform to optimize the subscriber funnel and improve retention rates.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project demonstrates end-to-end data science workflow for subscriber funnel optimization, from data generation to predictive modeling and business insights. The analysis focuses on identifying key factors contributing to subscriber churn and developing actionable strategies to improve retention rates across different acquisition channels and subscription tiers.
 
@@ -14,7 +14,7 @@ This project demonstrates end-to-end data science workflow for subscriber funnel
 - **Optimize funnel stages** for better conversion rates and reduced churn
 - **Generate actionable business insights** for strategic decision-making
 
-## 🔄 Workflow Summary
+## Workflow Summary
 
 ### 1. Synthetic Data Generation
 - Generated 1,000 synthetic subscriber records with realistic behavior patterns
@@ -49,7 +49,7 @@ This project demonstrates end-to-end data science workflow for subscriber funnel
 - Ready-to-use format for advanced visualization and dashboard creation
 - Business-friendly column naming and data structure
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Core Libraries
 - **Python 3.8+**: Primary programming language
@@ -69,7 +69,7 @@ This project demonstrates end-to-end data science workflow for subscriber funnel
 - **datetime**: Date and time manipulation
 - **warnings**: Error handling and code optimization
 
-## 📈 Key Outcomes
+## Key Outcomes
 
 ### Model Performance
 - **Baseline Logistic Regression**: Established performance benchmark
@@ -90,7 +90,7 @@ This project demonstrates end-to-end data science workflow for subscriber funnel
 - Develop tier-specific retention campaigns
 - Deploy real-time churn prediction monitoring
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 subscriber_funnel_optimization_dashboard/
@@ -100,7 +100,7 @@ subscriber_funnel_optimization_dashboard/
 └── requirements.txt                                # Python dependencies (if needed)
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -113,7 +113,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 3. Run all cells sequentially to reproduce the analysis
 4. The processed data will be exported to `subscriber_funnel_data.csv` for Tableau visualization
 
-## 📊 Visualization Examples
+## Visualization Examples
 
 The notebook includes comprehensive visualizations:
 - **Funnel Analysis Charts**: Multi-stage conversion visualization
@@ -122,7 +122,7 @@ The notebook includes comprehensive visualizations:
 - **Model Performance Metrics**: ROC curves, confusion matrices, feature importance
 - **Revenue Impact Analysis**: Financial implications of churn predictions
 
-## 🔍 Model Details
+## Model Details
 
 ### Feature Engineering
 - **Interaction Features**: Engagement × time ratios, articles × engagement combinations
@@ -134,7 +134,7 @@ The notebook includes comprehensive visualizations:
 - **Cross-Validation**: 5-fold validation for robust performance estimation
 - **Feature Selection**: Top predictive features identified through importance scoring
 
-## ⚠️ Important Disclaimer
+## Important Disclaimer
 
 **This project uses entirely synthetic data generated for educational and demonstration purposes.** 
 
@@ -145,16 +145,16 @@ The notebook includes comprehensive visualizations:
 
 The synthetic data is designed to mimic realistic patterns found in subscription-based businesses, making it valuable for educational purposes and methodology demonstration.
 
-## 🤝 Contributing
+## Contributing
 
 This project is designed as a portfolio demonstration and educational resource. Suggestions for improvements or additional analysis approaches are welcome through issues or pull requests.
 
-## 📄 License
+## License
 
 This project is available for educational and non-commercial use. Please provide attribution when using or adapting the methodology.
 
 ---
 
-**Author**: Asad Adnan  
+**Author**: Data Science Team  
 **Date**: December 2024  
 **Version**: 1.0 
