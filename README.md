@@ -40,7 +40,7 @@ This project demonstrates end-to-end data science workflow for subscriber funnel
 - Feature importance analysis for business insights
 
 ### 5. Funnel Visualization
-- Multi-stage funnel analysis (Acquired → Engaged → Active → Loyal → Premium/Enterprise)
+- Multi-stage funnel analysis (Acquired > Engaged > Active > Loyal > Premium/Enterprise)
 - Conversion rate calculation between funnel stages
 - Revenue impact assessment for at-risk subscribers
 
@@ -94,10 +94,10 @@ This project demonstrates end-to-end data science workflow for subscriber funnel
 
 ```
 subscriber_funnel_optimization_dashboard/
-├── subscriber_funnel_optimization_dashboard.ipynb  # Main analysis notebook
-├── subscriber_funnel_data.csv                      # Exported data for Tableau
-├── README.md                                       # Project documentation
-└── requirements.txt                                # Python dependencies (if needed)
+|-- subscriber_funnel_optimization_dashboard.ipynb  # Main analysis notebook
+|-- subscriber_funnel_data.csv                      # Exported data for Tableau
+|-- README.md                                       # Project documentation
+|-- requirements.txt                                # Python dependencies (if needed)
 ```
 
 ## Getting Started
@@ -125,7 +125,7 @@ The notebook includes comprehensive visualizations:
 ## Model Details
 
 ### Feature Engineering
-- **Interaction Features**: Engagement × time ratios, articles × engagement combinations
+- **Interaction Features**: Engagement x time ratios, articles x engagement combinations
 - **Risk Indicators**: Binary flags for low engagement, activity, and tenure
 - **Composite Scores**: Weighted engagement metrics for holistic subscriber health
 
